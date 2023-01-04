@@ -8,6 +8,7 @@ const init = async () => {
     routes: {
       cors: {
         origin: ['*'],
+
       },
     },
   });
